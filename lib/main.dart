@@ -155,13 +155,16 @@ class _WashingMachineButtonState extends State<WashingMachineButton> {
       setState(() {
         if (status == 'Available') {
           _buttonColor = Colors.green;
+          _endTime = "";
         } else if (status == 'In Use') {
           _buttonColor = Colors.red;
           _endTime = endTime;
         } else if (status == 'Finished') {
           _buttonColor = Colors.yellow;
+          _endTime = "";
         } else {
           _buttonColor = Colors.grey;
+          _endTime = "";
         }
       });
     });
