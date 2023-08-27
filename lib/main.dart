@@ -159,6 +159,12 @@ class _WashingMachineButtonState extends State<WashingMachineButton> {
         } else if (status == 'In Use') {
           _buttonColor = Colors.red;
           _endTime = endTime;
+          Future.delayed(const Duration(seconds: 5), () {
+            setState(() {
+              _buttonColor = Colors.yellow;
+              _endTime = "";
+            });
+          });
         } else if (status == 'Finished') {
           _buttonColor = Colors.yellow;
           _endTime = "";
