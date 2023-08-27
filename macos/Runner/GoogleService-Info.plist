@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1094333785712-2gnu9sdrroe87t7icjmbqifi1jdd7ns8.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1094333785712-2gnu9sdrroe87t7icjmbqifi1jdd7ns8</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCZ5gneOUjegMQDkIQtjamSePtNIFuxmcg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1094333785712</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.wooshyWashy.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>wooshy-washy</string>
+	<key>STORAGE_BUCKET</key>
+	<string>wooshy-washy.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1094333785712:ios:e153e19d4f16ed18e136b5</string>
+	<key>DATABASE_URL</key>
+	<string>https://wooshy-washy-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+</dict>
+</plist>

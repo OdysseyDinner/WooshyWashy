@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1094333785712",
+    "firebase_url": "https://wooshy-washy-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "wooshy-washy",
+    "storage_bucket": "wooshy-washy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094333785712:android:9b0e91716813d2ece136b5",
+        "android_client_info": {
+          "package_name": "com.example.wooshy_washy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1094333785712-s6avauotveempe37smscgfhnompb0ffg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfZMA7DPPY_kInOAD3_KN5leSb-TB4AYk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1094333785712-s6avauotveempe37smscgfhnompb0ffg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1094333785712-2gnu9sdrroe87t7icjmbqifi1jdd7ns8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.wooshyWashy.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
